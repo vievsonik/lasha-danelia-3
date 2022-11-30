@@ -175,7 +175,9 @@ body{
      align-items: baseline;
      justify-content: center;
     justify-content: space-evenly;
+    font-size: 13px;
     width:486.09px ;
+    color: #CBD0D3;
     height: 86px ;
     margin-bottom: 44px;
     margin-top: 44px;
@@ -184,4 +186,30 @@ body{
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
+    color: #fff;
 }
+.footer-text-padding{
+    padding-bottom: 7px;
+}
+.footer-middle-block{
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 44px;
+    font-size: 11px;
+    color: #CBD0D3;
+    margin-left: 35px;
+}
+.footer-right-block{
+    display: flex;
+    align-items: baseline;
+    justify-content:flex-end; 
+    margin-top: 44px;
+    font-size: 11px;
+    color: #CBD0D3;
+    margin-left: 35px;
+}
+
+
+
