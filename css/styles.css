@@ -5,6 +5,7 @@
     color: #FA6980;
     font-size: 13px;
     margin-left: 20px;
+    margin-top: 3px;
     position: fixed;
     top: 0;
     left: 0; 
@@ -187,6 +188,7 @@ body{
     align-items: flex-start;
     justify-content: flex-start;
     color: #fff;
+    margin-left: 90px;
 }
 .footer-text-padding{
     padding-bottom: 7px;
@@ -199,7 +201,7 @@ body{
     margin-top: 44px;
     font-size: 11px;
     color: #CBD0D3;
-    margin-left: 35px;
+    margin-left: 78px;
 }
 .footer-right-block{
     display: flex;
@@ -208,7 +210,7 @@ body{
     margin-top: 44px;
     font-size: 11px;
     color: #CBD0D3;
-    margin-left: 165.2px;
+    margin-left: 400px;
 }
 .footer-right-block-padding{
     padding-right: 33px;
