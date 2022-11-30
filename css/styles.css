@@ -167,4 +167,21 @@ body{
 .footer-conteiner{
     background: #A6ADB4;
     margin-top: 58px;
+    display: flex;
+}
+.footer-leftblock{
+    display: flex;
+    color: #fff;
+     align-items: baseline;
+     justify-content: center;
+    justify-content: space-evenly;
+    width:486.09px ;
+    height: 86px ;
+    margin-bottom: 44px;
+    margin-top: 44px;
+}
+.footer-title{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
 }
