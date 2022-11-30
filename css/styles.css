@@ -1,0 +1,117 @@
+/* header */
+.header-title{
+    display: flex;
+    align-items: center;
+    color: #FA6980;
+    font-size: 13px;
+    /* position: fixed; 
+    z-index: 100; */
+     
+    
+}
+.header-navigation{  
+    margin-left: 92px;
+    
+    
+}
+.navigation-div{ 
+    display: flex;
+    align-items: center;
+    
+} 
+.li-class{
+    padding-right: 27px;
+    
+}
+.li-colors{
+    color: #343638;
+    font-size: 11px;
+}
+.active{
+    color: black;
+}
+/* first-section */
+.firstsection-divwidth{
+    width: 1160px;
+    margin: 0 auto;
+    background: #F6F8F9;
+}
+.first-sectiondiv{
+   display: flex;
+    margin-top: 25px; 
+}
+.first-sectiontitle{
+    font-size: 24px;
+}
+.position-text{
+    position: absolute;
+    top: 28 px;
+    left: 40 px;
+    color: red;
+
+}
+
+.first-sectionimages{
+    position: relative
+    
+    /* justify-content: space-between; */
+    /* margin-top: 22px; */
+}
+
+.left-block-sectionone{
+    display: flex;
+    width: 360px ;
+    height:180px ;
+    background-color: #fff;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 40px;  
+    font-size: 13px;
+    color: #A6ADB4;
+    border-radius: 0 0 23px 23px  ;
+}
+.middle-block-sectionone{
+    display: flex;
+    width: 360px ;
+    height:180px ;
+    background-color: #fff;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 40px;      
+    font-size: 13px;
+    color: #A6ADB4;
+    border-radius: 0 0 23px 23px  ;
+}
+.right-block-sectionone{
+    display: flex;
+    width: 360px ;
+    height:180px ;
+    background-color: #fff;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 40px;      
+    font-size: 13px;
+    color: #A6ADB4;
+    border-radius: 0 0 23px 23px  ;
+}
+.block-conteiner{
+    display: flex;
+    justify-content: space-between;
+
+}
+body{
+    background: #F6F8F9;
+
+
+}
+/* second-section */
+.secondsection-divwidth{
+    width: 1160px;
+    margin: 0 auto;
+    background: #F6F8F9;   
+}
+.secondsection-title{
+    display: flex;
+    margin-top: 58px;
+    font-size: 24px;
+}
